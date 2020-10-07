@@ -1,0 +1,2029 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2020.3.4)  2 SEP 2020 16:39
+entering extended mode
+**TC_DPS_SW_DESIGN_DOC_v4.tex
+
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\TC_DPS_SW_DESI
+GN_DOC_v4.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\Thesis.cls"
+Document Class: Thesis 2007/22/02 v1.0 LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk12.clo"
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ieeepes\vmargin.sty"
+Package: vmargin 1999/06/01
+
+Package `vmargin', V2.2, <1999/06/01>
+\PaperWidth=\dimen103
+\PaperHeight=\dimen104
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen105
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks17
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amscd.sty"
+Package: amscd 1999/11/29 v2.0
+\athelp@=\toks19
+\minaw@=\dimen114
+\bigaw@=\dimen115
+\minCDarrowwidth=\dimen116
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks25
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+\c@example=\count100
+\c@theorem=\count101
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/04/14 v3.3-73 Customizing captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/04/14 v1.5-71 caption3 kernel (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks26
+)
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@tempdima=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+)
+\c@ContinuedFloat=\count102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count103
+))
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip58
+\subfigcapskip=\skip59
+\subfigcaptopadj=\dimen126
+\subfigbottomskip=\skip60
+\subfigcapmargin=\dimen127
+\subfiglabelskip=\skip61
+\c@subfigure=\count104
+\c@lofdepth=\count105
+\c@subtable=\count106
+\c@lotdepth=\count107
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip62
+\subfig@bottom=\skip63
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen128
+\lightrulewidth=\dimen129
+\cmidrulewidth=\dimen130
+\belowrulesep=\dimen131
+\belowbottomsep=\dimen132
+\aboverulesep=\dimen133
+\abovetopsep=\dimen134
+\cmidrulesep=\dimen135
+\cmidrulekern=\dimen136
+\defaultaddspace=\dimen137
+\@cmidla=\count108
+\@cmidlb=\count109
+\@aboverulesep=\dimen138
+\@belowrulesep=\dimen139
+\@thisruleclass=\count110
+\@lastruleclass=\count111
+\@thisrulewidth=\dimen140
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count112
+\rotFPtop=\skip64
+\rotFPbot=\skip65
+\rot@float@box=\box28
+\rot@mess@toks=\toks27
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count113
+\lst@gtempboxa=\box29
+\lst@token=\toks28
+\lst@length=\count114
+\lst@currlwidth=\dimen141
+\lst@column=\count115
+\lst@pos=\count116
+\lst@lostspace=\dimen142
+\lst@width=\dimen143
+\lst@newlines=\count117
+\lst@lineno=\count118
+\lst@maxwidth=\dimen144
+
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\lstpatch.sty"
+
+***
+*** This is a patch for listings 1.3, but you're using
+*** version 1.4.
+***
+*** Patch file not loaded.
+***
+
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count119
+\lst@skipnumbers=\count120
+\lst@framebox=\box30
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\lstpatch.sty"
+
+***
+*** This is a patch for listings 1.3, but you're using
+*** version 1.4.
+***
+ *** Patch file not loaded.
+***
+
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen145
+\Hy@linkcounter=\count121
+\Hy@pagecounter=\count122
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count123
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4319
+.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 4319.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `unicode' set `true' on input line 4319.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count124
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen146
+\Fld@menulength=\count125
+\Field@Width=\dimen147
+\Fld@charsize=\dimen148
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count126
+\c@Item=\count127
+\c@Hfootnote=\count128
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count129
+\c@bookmark@seq@number=\count130
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip66
+)
+\c@dummy=\count131
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip67
+\LTright=\skip68
+\LTpre=\skip69
+\LTpost=\skip70
+\LTchunksize=\count132
+\LTcapwidth=\dimen149
+\LT@head=\box31
+\LT@firsthead=\box32
+\LT@foot=\box33
+\LT@lastfoot=\box34
+\LT@cols=\count133
+\LT@rows=\count134
+\c@LT@tables=\count135
+\c@LT@chunks=\count136
+\LT@p@ftn=\toks29
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box35
+\beforetitleunit=\skip71
+\aftertitleunit=\skip72
+\ttl@plus=\dimen150
+\ttl@minus=\dimen151
+\ttl@toksa=\toks30
+\titlewidth=\dimen152
+\titlewidthlast=\dimen153
+\titlewidthfirst=\dimen154
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pbox\pbox.sty"
+Package: pbox 2011/12/07 v1.2 Dynamic parboxes
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count137
+\calc@Bcount=\count138
+\calc@Adimen=\dimen155
+\calc@Bdimen=\dimen156
+\calc@Askip=\skip73
+\calc@Bskip=\skip74
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count139
+\calc@Cskip=\skip75
+)
+\pb@xlen=\skip76
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip77
+\bibsep=\skip78
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count140
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks31
+\verbatim@line=\toks32
+\verbatim@in@stream=\read1
+)
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\vector.sty"
+Package: vector 1994/09/16 v1.0 vector macros for LaTeX2e (nde)
+\c@vec@elem=\count141
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 23.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\floatrow\floatrow.sty"
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+\c@float@type=\count142
+\float@exts=\toks33
+\float@box=\box36
+\@floatcapt=\box37
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks34
+\flrow@foot=\insert233
+\FB@wd=\dimen157
+\FBo@wd=\dimen158
+\FBc@wd=\dimen159
+\FBo@ht=\skip79
+\FBc@ht=\skip80
+\FBf@ht=\skip81
+\FBo@max=\skip82
+\FBc@max=\skip83
+\FBf@max=\skip84
+\c@FBl@b=\count143
+\floatbox@depth=\count144
+\c@FRobj=\count145
+\c@FRsobj=\count146
+\Xhsize=\skip85
+\sXhsize=\skip86
+\Zhsize=\skip87
+\sZhsize=\skip88
+\flrow@rowbox=\box38
+\FR@Zunitlength=\dimen160
+\c@FBcnt=\count147
+\FPOScnt=\count148
+\LTleft=\skip89
+\LTright=\skip90
+\LTleft=\skip91
+\LTright=\skip92
+\flrow@types=\toks35
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count149
+\mult@box=\box39
+\multicol@leftmargin=\dimen161
+\c@unbalance=\count150
+\c@collectmore=\count151
+\doublecol@number=\count152
+\multicoltolerance=\count153
+\multicolpretolerance=\count154
+\full@width=\dimen162
+\page@free=\dimen163
+\premulticols=\dimen164
+\postmulticols=\dimen165
+\multicolsep=\skip93
+\multicolbaselineskip=\skip94
+\partial@page=\box40
+\last@line=\box41
+\mult@rightbox=\box42
+\mult@grightbox=\box43
+\mult@gfirstbox=\box44
+\mult@firstbox=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\c@columnbadness=\count155
+\c@finalcolumnbadness=\count156
+\last@try=\dimen166
+\multicolovershoot=\dimen167
+\multicolundershoot=\dimen168
+\mult@nat@firstbox=\box63
+\colbreak@box=\box64
+\multicol@sort@counter=\count157
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\courier.sty"
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen169
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\soul\soul.sty"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks36
+\SOUL@lasttoken=\toks37
+\SOUL@cmds=\toks38
+\SOUL@buffer=\toks39
+\SOUL@token=\toks40
+\SOUL@spaceskip=\skip95
+\SOUL@ttwidth=\dimen170
+\SOUL@uldp=\dimen171
+\SOUL@ulht=\dimen172
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lineno\lineno.sty"
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count158
+\output=\toks41
+\linenoprevgraf=\count159
+\linenumbersep=\dimen173
+\linenumberwidth=\dimen174
+\c@linenumber=\count160
+\c@pagewiselinenumber=\count161
+\c@LN@truepage=\count162
+\c@internallinenumber=\count163
+\c@internallinenumbers=\count164
+\quotelinenumbersep=\dimen175
+\bframerule=\dimen176
+\bframesep=\dimen177
+\bframebox=\box65
+LaTeX Info: Redefining \\ on input line 3056.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\program\program.sty"
+\@gtempa=\dimen178
+\@gtempa=\dimen179
+\@gtempa=\dimen180
+\@gtempa=\dimen181
+\@gtempa=\dimen182
+\@gtempa=\dimen183
+\@gtempa=\dimen184
+\@gtempa=\dimen185
+\@gtempa=\dimen186
+\@gtempa=\dimen187
+\@gtempa=\dimen188
+\@gtempa=\dimen189
+\@gtempa=\dimen190
+\@gtempa=\dimen191
+\@gtempa=\dimen192
+\@gtempa=\dimen193
+\@gtempa=\dimen194
+\@gtempa=\dimen195
+\@gtempa=\dimen196
+\@gtempa=\dimen197
+\@gtempa=\dimen198
+\@gtempa=\dimen199
+\@gtempa=\dimen200
+\@gtempa=\dimen201
+\@gtempa=\dimen202
+\@gtempa=\dimen203
+\@gtempa=\dimen204
+\@gtempa=\dimen205
+\@gtempa=\dimen206
+\@gtempa=\dimen207
+\@gtempa=\dimen208
+\@gtempa=\dimen209
+\@gtempa=\dimen210
+\@gtempa=\dimen211
+\@gtempa=\dimen212
+\@gtempa=\dimen213
+\@gtempa=\dimen214
+\@gtempa=\dimen215
+\@gtempa=\dimen216
+\@gtempa=\dimen217
+\@gtempa=\dimen218
+\@gtempa=\dimen219
+\@gtempa=\dimen220
+\@gtempa=\dimen221
+\@gtempa=\dimen222
+\@gtempa=\dimen223
+\@gtempa=\dimen224
+\@gtempa=\dimen225
+\@gtempa=\dimen226
+\@gtempa=\dimen227
+\c@programline=\count165
+\old@nxttabmar=\count166
+\symeulerletters=\mathgroup9
+\powersetbox=\box66
+LaTeX Font Info:    Try loading font information for U+msa on input line 839.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 839.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+eur on input line 839.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\ueur.fd"
+File: ueur.fd 2013/01/14 v3.01 Euler Roman
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithms\algorithmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count167
+\c@ALC@line=\count168
+\c@ALC@rem=\count169
+\c@ALC@depth=\count170
+\ALC@tlm=\skip96
+\algorithmicindent=\skip97
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\TC_DPS_SW_DESI
+GN_DOC_v4.aux"
+
+LaTeX Warning: Label `TAB:Certificate' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: floatrow package is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count171
+\scratchdimen=\dimen228
+\scratchbox=\box67
+\nofMPsegments=\count172
+\nofMParguments=\count173
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count174
+\MPscratchDim=\dimen229
+\MPnumerator=\count175
+\makeMPintoPDFobject=\count176
+\everyMPtoPDFconversion=\toks43
+)
+\c@lstlisting=\count177
+\AtBeginShipoutBox=\box68
+Package hyperref Info: Link coloring ON on input line 53.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count178
+)
+LaTeX Info: Redefining \ref on input line 53.
+LaTeX Info: Redefining \pageref on input line 53.
+LaTeX Info: Redefining \nameref on input line 53.
+
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\TC_DPS_SW_DESI
+GN_DOC_v4.out")
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\TC_DPS_SW_DESI
+GN_DOC_v4.out")
+\@outlinefile=\write3
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\floatrow\fr-longtable.sty"
+Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
+
+\flrow@LT@lasthead=\box69
+\flrow@LT@prelastfoot=\box70
+\c@FBLTpage=\count179
+)
+<./AntElement.jpg, id=903, 562.7424pt x 481.8pt>
+File: ./AntElement.jpg Graphic file (type jpg)
+ <use ./AntElement.jpg>
+Package pdftex.def Info: ./AntElement.jpg used on input line 78.
+(pdftex.def)             Requested size: 119.24414pt x 108.40031pt.
+
+<./CRI1.jpg, id=904, 713.3049pt x 899.5206pt>
+File: ./CRI1.jpg Graphic file (type jpg)
+ <use ./CRI1.jpg>
+Package pdftex.def Info: ./CRI1.jpg used on input line 78.
+(pdftex.def)             Requested size: 119.23578pt x 108.40448pt.
+
+<./DCE.jpg, id=905, 2332.715pt x 1710.39pt>
+File: ./DCE.jpg Graphic file (type jpg)
+ <use ./DCE.jpg>
+Package pdftex.def Info: ./DCE.jpg used on input line 78.
+(pdftex.def)             Requested size: 119.24097pt x 108.38672pt.
+
+<./NewPA.jpg, id=906, 616.704pt x 903.6159pt>
+File: ./NewPA.jpg Graphic file (type jpg)
+ <use ./NewPA.jpg>
+Package pdftex.def Info: ./NewPA.jpg used on input line 80.
+(pdftex.def)             Requested size: 119.2452pt x 108.40164pt.
+
+<./Console1.jpg, id=907, 626.8218pt x 489.9906pt>
+File: ./Console1.jpg Graphic file (type jpg)
+ <use ./Console1.jpg>
+Package pdftex.def Info: ./Console1.jpg used on input line 80.
+(pdftex.def)             Requested size: 119.24084pt x 108.40387pt.
+
+<./MainPage.png, id=908, 1152.7065pt x 609.477pt>
+File: ./MainPage.png Graphic file (type png)
+ <use ./MainPage.png>
+Package pdftex.def Info: ./MainPage.png used on input line 80.
+(pdftex.def)             Requested size: 119.2349pt x 108.39914pt.
+ [0
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <E:/4_Softwares_DPS_PLC/2_
+2_TC Linux DPS Sw Design Doc/Version4/AntElement.jpg> <E:/4_Softwares_DPS_PLC/2
+_2_TC Linux DPS Sw Design Doc/Version4/CRI1.jpg> <E:/4_Softwares_DPS_PLC/2_2_TC
+ Linux DPS Sw Design Doc/Version4/DCE.jpg> <E:/4_Softwares_DPS_PLC/2_2_TC Linux
+ DPS Sw Design Doc/Version4/NewPA.jpg> <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS
+ Sw Design Doc/Version4/Console1.jpg> <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS 
+Sw Design Doc/Version4/MainPage.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
+
+ []
+
+[1]
+Overfull \hbox (58.706pt too wide) in paragraph at lines 217--241
+ [][] 
+ []
+
+[2
+
+]
+Overfull \hbox (38.28677pt too wide) in paragraph at lines 267--282
+ [][] 
+ []
+
+[3
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+
+ []
+
+[4
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 346--360
+
+ []
+
+[5
+
+]
+------------------------------------------------------------------------------
+ Acknowledgements
+------------------------------------------------------------------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--406
+
+ []
+
+[6
+
+]
+------------------------------------------------------------------------------
+ Table of Contents
+------------------------------------------------------------------------------
+
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\TC_DPS_SW_DESI
+GN_DOC_v4.toc" [1
+
+
+
+] [2] [3] [4] [5])
+\tf@toc=\write4
+ [6]
+------------------------------------------------------------------------------
+ List of Figures
+------------------------------------------------------------------------------
+
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\TC_DPS_SW_DESI
+GN_DOC_v4.lof")
+\tf@lof=\write5
+ [7
+
+
+]
+------------------------------------------------------------------------------
+ List of Tables
+------------------------------------------------------------------------------
+
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\TC_DPS_SW_DESI
+GN_DOC_v4.lot")
+\tf@lot=\write6
+ [8
+
+
+]
+------------------------------------------------------------------------------
+ Abbreviations
+------------------------------------------------------------------------------
+[9
+
+
+
+]
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\Chapters/Chapt
+er1.tex"
+Chapter 1.
+------------------------------------------------------------------------------
+ 1 Introduction
+------------------------------------------------------------------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+
+ []
+
+[1
+
+
+
+
+] <./Diagrams/TCSingleChainDiag.png, id=1288, 543.2295pt x 421.575pt>
+File: ./Diagrams/TCSingleChainDiag.png Graphic file (type png)
+
+<use ./Diagrams/TCSingleChainDiag.png>
+Package pdftex.def Info: ./Diagrams/TCSingleChainDiag.png used on input line 8.
+
+(pdftex.def)             Requested size: 417.47307pt x 323.98334pt.
+ [2]
+<./Diagrams/TC5ChainConfg1.png, id=1293, 764.25525pt x 384.2355pt>
+File: ./Diagrams/TC5ChainConfg1.png Graphic file (type png)
+
+<use ./Diagrams/TC5ChainConfg1.png>
+Package pdftex.def Info: ./Diagrams/TC5ChainConfg1.png used on input line 15.
+(pdftex.def)             Requested size: 417.47307pt x 209.88788pt.
+ [3 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/Diagrams/TC
+SingleChainDiag.png> <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Ver
+sion4/Diagrams/TC5ChainConfg1.png>]
+<./Diagrams/DPSBlockDiagram.png, id=1302, 889.52325pt x 625.73775pt>
+File: ./Diagrams/DPSBlockDiagram.png Graphic file (type png)
+
+<use ./Diagrams/DPSBlockDiagram.png>
+Package pdftex.def Info: ./Diagrams/DPSBlockDiagram.png used on input line 27.
+(pdftex.def)             Requested size: 417.47307pt x 293.67667pt.
+
+Overfull \hbox (0.67648pt too wide) in paragraph at lines 33--33
+ |[]\OT1/cmr/bx/n/14.4 Digital Com-mand En-coder / Re-mote Com-mand Unit
+ []
+
+[4 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/Diagrams/DPS
+BlockDiagram.png>]
+<./Diagrams/DCEBlockDiag.png, id=1310, 695.59875pt x 515.67656pt>
+File: ./Diagrams/DCEBlockDiag.png Graphic file (type png)
+
+<use ./Diagrams/DCEBlockDiag.png>
+Package pdftex.def Info: ./Diagrams/DCEBlockDiag.png used on input line 38.
+(pdftex.def)             Requested size: 417.47307pt x 309.487pt.
+
+<./Diagrams/BlockServo.png, id=1312, 475.7775pt x 253.54726pt>
+File: ./Diagrams/BlockServo.png Graphic file (type png)
+
+<use ./Diagrams/BlockServo.png>
+Package pdftex.def Info: ./Diagrams/BlockServo.png used on input line 48.
+(pdftex.def)             Requested size: 417.47307pt x 222.48776pt.
+ [5 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/Diagrams/DC
+EBlockDiag.png>]
+<./Diagrams/SharTimingDistribution.png, id=1321, 949.5475pt x 634.37pt>
+File: ./Diagrams/SharTimingDistribution.png Graphic file (type png)
+
+<use ./Diagrams/SharTimingDistribution.png>
+Package pdftex.def Info: ./Diagrams/SharTimingDistribution.png used on input li
+ne 65.
+(pdftex.def)             Requested size: 375.7232pt x 251.01382pt.
+ [6 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/Diagrams/Bl
+ockServo.png>]
+<./Diagrams/PBLRTimingDistribution.png, id=1326, 949.5475pt x 634.37pt>
+File: ./Diagrams/PBLRTimingDistribution.png Graphic file (type png)
+
+<use ./Diagrams/PBLRTimingDistribution.png>
+Package pdftex.def Info: ./Diagrams/PBLRTimingDistribution.png used on input li
+ne 72.
+(pdftex.def)             Requested size: 375.7232pt x 251.01382pt.
+ [7 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/Diagrams/Sh
+arTimingDistribution.png> <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Do
+c/Version4/Diagrams/PBLRTimingDistribution.png>] <./Diagrams/BlockPA.png, id=13
+32, 712.16063pt x 442.65375pt>
+File: ./Diagrams/BlockPA.png Graphic file (type png)
+
+<use ./Diagrams/BlockPA.png>
+Package pdftex.def Info: ./Diagrams/BlockPA.png used on input line 86.
+(pdftex.def)             Requested size: 417.47307pt x 259.4816pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+[8 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/Diagrams/Blo
+ckPA.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+<./Diagrams/BlockLevelSchematicCRISharPblr.png, id=1341, 951.555pt x 714.67pt>
+File: ./Diagrams/BlockLevelSchematicCRISharPblr.png Graphic file (type png)
+
+<use ./Diagrams/BlockLevelSchematicCRISharPblr.png>
+Package pdftex.def Info: ./Diagrams/BlockLevelSchematicCRISharPblr.png used on 
+input line 105.
+(pdftex.def)             Requested size: 417.47307pt x 313.55066pt.
+ [9 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/Diagrams/Bl
+ockLevelSchematicCRISharPblr.png>])
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\Chapters/Chapt
+er2.tex" [10]
+Chapter 2.
+------------------------------------------------------------------------------
+ 2 Decomposition description
+------------------------------------------------------------------------------
+[11
+
+] [12] [13] [14] [15])
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\Chapters/Chapt
+er3.tex" [16]
+Chapter 3.
+------------------------------------------------------------------------------
+ 3 Dependency description
+------------------------------------------------------------------------------
+
+Overfull \hbox (4.30737pt too wide) in paragraph at lines 13--14
+[]\OT1/cmr/m/n/12 DIO par-al-lel data, ana-log in-put, ana-log out-puts, log-gi
+ng are moved to threads. 
+ []
+
+<./Diagrams/SWFlowDiag.png, id=1396, 582.37575pt x 375.20175pt>
+File: ./Diagrams/SWFlowDiag.png Graphic file (type png)
+
+<use ./Diagrams/SWFlowDiag.png>
+Package pdftex.def Info: ./Diagrams/SWFlowDiag.png used on input line 19.
+(pdftex.def)             Requested size: 417.47307pt x 268.97139pt.
+ [17
+
+] [18 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/Diagrams/
+SWFlowDiag.png>])
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\Chapters/Chapt
+er4.tex" [19]
+Chapter 4.
+------------------------------------------------------------------------------
+ 4 Interface description
+------------------------------------------------------------------------------
+[20
+
+] [21])
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\Chapters/Chapt
+er5.tex" [22]
+Chapter 5.
+------------------------------------------------------------------------------
+ 5 Detailed design
+------------------------------------------------------------------------------
+[23
+
+] [24]
+Overfull \hbox (11.38495pt too wide) in paragraph at lines 82--83
+[]\OT1/cmr/m/n/12 QString cdt-str1, cdt-str2, edaustr1, edaustr2, cdt-str, UtCD
+T-Str1, UtCDT-
+ []
+
+[25]
+Overfull \hbox (76.76697pt too wide) in paragraph at lines 106--107
+[]\OT1/cmr/m/n/12 float Az$[]$hnds$[]$ch2,Az$[]$tens$[]$ch2,Az$[]$ones$[]$ch2,A
+z$[]$1tenth$[]$ch2,Az$[]$1hundredth$[]$ch2,Az$[]$ch2; 
+ []
+
+
+Overfull \hbox (76.76697pt too wide) in paragraph at lines 107--108
+[]\OT1/cmr/m/n/12 float Az$[]$hnds$[]$ch1,Az$[]$tens$[]$ch1,Az$[]$ones$[]$ch1,A
+z$[]$1tenth$[]$ch1,Az$[]$1hundredth$[]$ch1,Az$[]$ch1; 
+ []
+
+
+Overfull \hbox (60.13385pt too wide) in paragraph at lines 108--109
+[]\OT1/cmr/m/n/12 float El$[]$hnds$[]$ch2,El$[]$tens$[]$ch2,El$[]$ones$[]$ch2,E
+l$[]$1tenth$[]$ch2,El$[]$1hundredth$[]$ch2,El$[]$ch2; 
+ []
+
+
+Overfull \hbox (60.13385pt too wide) in paragraph at lines 109--110
+[]\OT1/cmr/m/n/12 float El$[]$hnds$[]$ch1,El$[]$tens$[]$ch1,El$[]$ones$[]$ch1,E
+l$[]$1tenth$[]$ch1,El$[]$1hundredth$[]$ch1,El$[]$ch1; 
+ []
+
+[26]
+Overfull \hbox (39.07489pt too wide) in paragraph at lines 165--166
+[]\OT1/cmr/m/n/12 bool logbuffid$[]$ant,logbuffid$[]$stn,logbuffid$[]$edau, log
+buffid$[]$cdm1, logbuffid$[]$cdm2,
+ []
+
+
+Overfull \hbox (12.02464pt too wide) in paragraph at lines 169--170
+[]\OT1/cmr/m/n/12 bool Antlog$[]$Selection$[]$Flag,Stnlog$[]$Selection$[]$Flag,
+Edaulog$[]$Selection$[]$Flag,
+ []
+
+
+Overfull \hbox (9.95302pt too wide) in paragraph at lines 170--171
+[]\OT1/cmr/m/n/12 quint64 Ant-log-Counter, Stnlog-Counter, Edaulog-Counter, Dce
+l-og-Counter,
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+
+Overfull \hbox (87.0897pt too wide) in paragraph at lines 186--187
+[]\OT1/cmr/m/n/12 uint tempVariabe$[]$MCCFraming,tempvaribl$[]$Az$[]$MccFraming
+,tempvaribl$[]$El$[]$MccFraming 
+ []
+
+[28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39]
+Overfull \hbox (2.57193pt too wide) in paragraph at lines 657--658
+[]\OT1/cmr/bx/n/12 void MainWindow::on$[]$Network$[]$Packet1$[]$Recevied(int,QB
+yteArray
+ []
+
+[40]
+Overfull \hbox (2.57193pt too wide) in paragraph at lines 668--669
+[]\OT1/cmr/bx/n/12 void MainWindow::on$[]$Network$[]$Packet2$[]$Recevied(int,QB
+yteArray
+ []
+
+[41] [42] [43] [44]
+Overfull \hbox (11.85588pt too wide) in paragraph at lines 812--813
+[]\OT1/cmr/bx/n/12 void dio:: On100HzIntrRxd(void *sender,DiSnapEventArgs * arg
+s)() 
+ []
+
+[45] [46] [47] [48] [49] [50] [51]
+Overfull \hbox (22.08421pt too wide) in paragraph at lines 1019--1020
+[]\OT1/cmr/m/n/12 void copy$[]$data$[]$to$[]$ram$[]$mcc(NetTxMCC *pM-ccL1buff,N
+etTxMCC *pM-ccL2buff,
+ []
+
+[52] [53] [54]
+Overfull \hbox (5.03386pt too wide) in paragraph at lines 1118--1119
+[]\OT1/cmr/bx/n/12 void logging::copy$[]$data$[]$to$[]$ram$[]$edau(Acquired$[]$
+encoder$[]$Data* ,buf-
+ []
+
+[55]
+Overfull \hbox (0.27582pt too wide) in paragraph at lines 1126--1127
+[]\OT1/cmr/bx/n/12 void logging::EncDataLog(Acquired$[]$encoder$[]$Data *pEncbu
+ff, bool
+ []
+
+
+Overfull \hbox (1.8672pt too wide) in paragraph at lines 1134--1135
+[]\OT1/cmr/bx/n/12 logging::Datalogtoharddisk$[]$edau(bool buf-fid, bool ex-it-
+flag, bool va-
+ []
+
+[56] [57] [58]
+Overfull \hbox (38.47763pt too wide) in paragraph at lines 1188--1189
+[]\OT1/cmr/m/it/12 Functional de-tails: \OT1/cmr/m/n/12 This func-tion calls `c
+dm1DataLog(cdm1$[]$buffer *pcdm1buff,
+ []
+
+
+Overfull \hbox (3.91556pt too wide) in paragraph at lines 1201--1202
+\OT1/cmr/m/n/12 item \OT1/cmr/bx/n/12 logging::Datalogtoharddisk$[]$cdm(bool bu
+f-fid, bool ex-it-flag, bool
+ []
+
+[59]
+Overfull \hbox (38.47763pt too wide) in paragraph at lines 1222--1223
+[]\OT1/cmr/m/it/12 Functional de-tails: \OT1/cmr/m/n/12 This func-tion calls `c
+dm1DataLog(cdm2$[]$buffer *pcdm2buff,
+ []
+
+[60] [61]
+Overfull \hbox (49.56702pt too wide) in paragraph at lines 1256--1257
+[]\OT1/cmr/m/it/12 Functional de-tails: \OT1/cmr/m/n/12 This func-tion calls `D
+CER-CU-D-at-a-Log(pDCERCUbuff,bufid)'
+ []
+
+
+Overfull \hbox (15.85342pt too wide) in paragraph at lines 1261--1262
+[]\OT1/cmr/bx/n/12 void logging::DCERCUDataLog(DCE$[]$RCUlog *pD-CER-CUbuff, bo
+ol
+ []
+
+
+Overfull \hbox (12.4853pt too wide) in paragraph at lines 1269--1270
+[]\OT1/cmr/bx/n/12 logging::Datalogtoharddisk$[]$DCERCU(bool buf-fid, bool ex-i
+t-flag, bool
+ []
+
+[62]
+Overfull \hbox (5.10083pt too wide) in paragraph at lines 1272--1273
+\OT1/cmr/m/n/12 `copy$[]$data$[]$to$[]$diskfile$[]$DCERCU(bool,bool,bool)' emit
+-ted from main-win-
+ []
+
+
+Overfull \hbox (18.61249pt too wide) in paragraph at lines 1286--1287
+[]\OT1/cmr/bx/n/12 void logging::copy$[]$data$[]$to$[]$ram$[]$mcc(NetTxMCC*,Net
+TxMCC*,bool) 
+ []
+
+
+Overfull \hbox (19.54785pt too wide) in paragraph at lines 1289--1290
+[]\OT1/cmr/m/it/12 Functional de-tails: \OT1/cmr/m/n/12 This func-tion calls `M
+ccL1DataLog(pMccL1buff,bufid)',
+ []
+
+[63] [64] [65] [66] [67]
+Overfull \hbox (3.05109pt too wide) in paragraph at lines 1399--1400
+[]\OT1/cmr/bx/n/12 void plotting::Draw$[]$Antenna$[]$Azimuth$[]$Plot(qint64,flo
+at,float,float) 
+ []
+
+
+Overfull \hbox (6.93997pt too wide) in paragraph at lines 1407--1408
+[]\OT1/cmr/bx/n/12 void plotting::Draw$[]$Antenna$[]$Elevation$[]$Plot(qint64,f
+loat,float,float) 
+ []
+
+[68] [69] [70] [71] [72]
+Overfull \hbox (77.93996pt too wide) in paragraph at lines 1546--1547
+[]\OT1/cmr/m/n/12 quint8 EDAUHealth-ByteCh1, EDAUS-tar-tIDCh1, EDAU-DataL-ength
+Ch1,EDAUStopIDCh1 
+ []
+
+
+Overfull \hbox (77.93996pt too wide) in paragraph at lines 1547--1548
+[]\OT1/cmr/m/n/12 quint8 EDAUHealth-ByteCh2, EDAUS-tar-tIDCh2, EDAU-DataL-ength
+Ch2,EDAUStopIDCh2 
+ []
+
+
+Overfull \hbox (10.91197pt too wide) in paragraph at lines 1554--1555
+[]\OT1/cmr/m/n/12 quint64 EDAUCh1$[]$Data$[]$NotProcessedCnt,EDAUCh2$[]$Data$[]
+$NotProcessedCnt 
+ []
+
+
+Overfull \hbox (183.61024pt too wide) in paragraph at lines 1556--1557
+[]\OT1/cmr/m/n/12 float EDAUCh1$[]$DataBuffer1[2],EDAUCh1$[]$DataBuffer2[2],EDA
+UCh1$[]$DataBuffer3[2],EDAUCh1$[]$DataBuffer4[2] 
+ []
+
+
+Overfull \hbox (183.61024pt too wide) in paragraph at lines 1557--1558
+[]\OT1/cmr/m/n/12 float EDAUCh2$[]$DataBuffer1[2],EDAUCh2$[]$DataBuffer2[2],EDA
+UCh2$[]$DataBuffer3[2],EDAUCh2$[]$DataBuffer4[2] 
+ []
+
+[73] [74]
+Overfull \hbox (46.67375pt too wide) in paragraph at lines 1588--1589
+[]\OT1/cmr/m/n/12 quint64 Pres$[]$cdm$[]$L1$[]$Src1$[]$Count,Pres$[]$cdm$[]$L1$
+[]$Src2$[]$Count,Pres$[]$cdm$[]$L2$[]$Src1$[]$Count,
+ []
+
+
+Overfull \hbox (60.18195pt too wide) in paragraph at lines 1589--1590
+[]\OT1/cmr/m/n/12 quint64 Prev$[]$cdmV$[]$L1$[]$Src1$[]$Count,Prev$[]$cdm$[]$L1
+$[]$Src2$[]$Count,Prev$[]$cdm$[]$L2$[]$Src1$[]$Count,
+ []
+
+
+Overfull \hbox (18.3791pt too wide) in paragraph at lines 1590--1591
+[]\OT1/cmr/m/n/12 quint64 Prev$[]$CDM$[]$L1$[]$RxCount$[]$TcProcess,Prev$[]$CDM
+$[]$L2$[]$RxCount$[]$TcProcess 
+ []
+
+
+Overfull \hbox (53.55928pt too wide) in paragraph at lines 1592--1593
+[]\OT1/cmr/m/n/12 quint64 No$[]$CDM$[]$L1$[]$ProcessCount$[]$TCProcess,No$[]$CD
+M$[]$L2$[]$ProcessCount$[]$TCProcess 
+ []
+
+[75]
+Overfull \hbox (2.85483pt too wide) in paragraph at lines 1637--1638
+[]\OT1/cmr/bx/n/12 void tcpro-cess:: processServoErrorBasedonModes$[]$TcProcess
+(void) 
+ []
+
+[76]
+Overfull \hbox (1.61479pt too wide) in paragraph at lines 1658--1659
+[]\OT1/cmr/m/it/12 Functional de-tails: \OT1/cmr/m/n/12 Gen-er-ates over-all he
+alth of EDAU chain-1 and chain-
+ []
+
+[77] [78] [79] [80] [81] [82] [83]
+Underfull \hbox (badness 10000) in paragraph at lines 1906--1907
+
+ []
+
+[84]
+Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1934--1935
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1943--1944
+
+ []
+
+[85]
+Overfull \hbox (9.30618pt too wide) in paragraph at lines 1971--1972
+[]\OT1/cmr/bx/n/12 SioThread :: int Con-fig-ure-Sio-Card(int i, QList$\OML/cmm/
+m/it/12 <$\OT1/cmr/bx/n/12 SIO$[]$Node*$\OML/cmm/m/it/12 >$ \OT1/cmr/bx/n/12 si
+o$[]$list,
+ []
+
+[86] [87] [88] [89]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2085.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2085.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2085.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2085.
+
+[90] [91] [92] [93] [94]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2211.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2211.
+
+[95] [96]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2263.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2263.
+
+[97]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2289.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2289.
+
+[98])
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\Chapters/Chapt
+er6.tex" [99]
+Chapter 6.
+------------------------------------------------------------------------------
+ 6 Procedure for loading Linux Operating System and other drivers along with ad
+d on cards
+------------------------------------------------------------------------------
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 7.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
+ [100
+
+] [101]
+Overfull \hbox (3.77399pt too wide) in paragraph at lines 52--53
+[]\OT1/cmr/m/n/12 Open DVD, go to re-po-data, then copy ``...comps.xml" file to
+ pack-ages/RHEL7 
+ []
+
+[102] [103] [104] [105] [106]
+Underfull \hbox (badness 10000) in paragraph at lines 217--220
+
+ []
+
+
+Overfull \hbox (12.5676pt too wide) in paragraph at lines 242--244
+[]\OT1/cmr/bx/n/12 To get de-scrip-tion of par-tic-u-lar daq\OT1/cmr/m/n/12 : $
+#$ cat /sys/-class/-daq/-daq0/desc
+ []
+
+[107] [108])
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\Chapters/Chapt
+er7.tex" [109]
+Chapter 7.
+------------------------------------------------------------------------------
+ 7 Data Formats
+------------------------------------------------------------------------------
+
+Overfull \hbox (2.54503pt too wide) in paragraph at lines 32--75
+ [][] 
+ []
+
+[110
+
+] [111] [112]
+Underfull \hbox (badness 10000) in paragraph at lines 84--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--112
+
+ []
+
+[113]
+Underfull \hbox (badness 10000) in paragraph at lines 125--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--142
+
+ []
+
+[114]
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+[115]
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+ []
+
+[116]
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+
+ []
+
+[117] [118] [119] [120] [121
+
+] [122] [123] [124] [125] [126]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 671.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <6> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 671.
+ [127] [128]
+Overfull \vbox (9.1pt too high) detected at line 743
+ []
+
+[129]
+Overfull \vbox (9.1pt too high) detected at line 773
+ []
+
+[130]
+Overfull \vbox (9.1pt too high) detected at line 789
+ []
+
+[131] [132] [133] [134] [135] [136
+
+])
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\Chapters/Chapt
+er8.tex" [137]
+Chapter 8.
+------------------------------------------------------------------------------
+ 8 Flow Charts
+------------------------------------------------------------------------------
+<./FlowCharts/PngFlowCharts/Main1.png, id=2734, 453.49425pt x 417.35925pt>
+File: ./FlowCharts/PngFlowCharts/Main1.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/Main1.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/Main1.png used on input lin
+e 7.
+(pdftex.def)             Requested size: 417.47307pt x 384.22353pt.
+
+<./FlowCharts/PngFlowCharts/Main2.png, id=2735, 582.37575pt x 431.81325pt>
+File: ./FlowCharts/PngFlowCharts/Main2.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/Main2.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/Main2.png used on input lin
+e 13.
+(pdftex.def)             Requested size: 417.47307pt x 309.55457pt.
+ [138
+
+ <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowCharts/Png
+FlowCharts/Main1.png>]
+<./FlowCharts/PngFlowCharts/SLOT_CDT12.png, id=2741, 545.6385pt x 362.5545pt>
+File: ./FlowCharts/PngFlowCharts/SLOT_CDT12.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/SLOT_CDT12.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/SLOT_CDT12.png used on inpu
+t line 22.
+(pdftex.def)             Requested size: 417.47307pt x 277.39755pt.
+ [139 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/Main2.png>]
+<./FlowCharts/PngFlowCharts/SLOT_EDAU1.png, id=2747, 926.46124pt x 693.59125pt>
+File: ./FlowCharts/PngFlowCharts/SLOT_EDAU1.png Graphic file (type png)
+<use ./FlowCharts/PngFlowCharts/SLOT_EDAU1.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/SLOT_EDAU1.png used on inpu
+t line 30.
+(pdftex.def)             Requested size: 417.47307pt x 312.53651pt.
+
+<./FlowCharts/PngFlowCharts/SLOT_EDAU2.png, id=2748, 926.46124pt x 693.59125pt>
+File: ./FlowCharts/PngFlowCharts/SLOT_EDAU2.png Graphic file (type png)
+<use ./FlowCharts/PngFlowCharts/SLOT_EDAU2.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/SLOT_EDAU2.png used on inpu
+t line 36.
+(pdftex.def)             Requested size: 417.47307pt x 312.53651pt.
+ [140 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/SLOT_CDT12.png>] [141 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS 
+Sw Design Doc/Version4/FlowCharts/PngFlowCharts/SLOT_EDAU1.png>]
+<./FlowCharts/PngFlowCharts/SLOT_CDM.png, id=2760, 868.24374pt x 672.5125pt>
+File: ./FlowCharts/PngFlowCharts/SLOT_CDM.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/SLOT_CDM.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/SLOT_CDM.png used on input 
+line 45.
+(pdftex.def)             Requested size: 417.47307pt x 323.36671pt.
+ [142 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/SLOT_EDAU2.png>]
+<./FlowCharts/PngFlowCharts/SLOT_100Hz1.png, id=2766, 375.20175pt x 427.5975pt>
+File: ./FlowCharts/PngFlowCharts/SLOT_100Hz1.png Graphic file (type png)
+<use ./FlowCharts/PngFlowCharts/SLOT_100Hz1.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/SLOT_100Hz1.png used on inp
+ut line 53.
+(pdftex.def)             Requested size: 417.47307pt x 475.78717pt.
+
+<./FlowCharts/PngFlowCharts/SLOT_100Hz11.png, id=2767, 555.2745pt x 404.10976pt
+>
+File: ./FlowCharts/PngFlowCharts/SLOT_100Hz11.png Graphic file (type png)
+ <use ./FlowCharts/PngFlowCharts/SLOT_100Hz11.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/SLOT_100Hz11.png used on in
+put line 59.
+(pdftex.def)             Requested size: 417.47307pt x 303.83385pt.
+ [143 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/SLOT_CDM.png>]
+<./FlowCharts/PngFlowCharts/SLOT_100Hz2.png, id=2773, 918.43124pt x 672.5125pt>
+File: ./FlowCharts/PngFlowCharts/SLOT_100Hz2.png Graphic file (type png)
+<use ./FlowCharts/PngFlowCharts/SLOT_100Hz2.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/SLOT_100Hz2.png used on inp
+ut line 65.
+(pdftex.def)             Requested size: 417.47307pt x 305.69608pt.
+ [144 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/SLOT_100Hz1.png>] <./FlowCharts/PngFlowCharts/TCP1.png, id=2779
+, 942.52126pt x 693.59125pt>
+File: ./FlowCharts/PngFlowCharts/TCP1.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/TCP1.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/TCP1.png used on input line
+ 74.
+(pdftex.def)             Requested size: 417.47307pt x 307.21309pt.
+ [145 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/SLOT_100Hz11.png> <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw D
+esign Doc/Version4/FlowCharts/PngFlowCharts/SLOT_100Hz2.png>]
+<./FlowCharts/PngFlowCharts/TCP2.png, id=2786, 934.49126pt x 693.59125pt>
+File: ./FlowCharts/PngFlowCharts/TCP2.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/TCP2.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/TCP2.png used on input line
+ 81.
+(pdftex.def)             Requested size: 417.47307pt x 309.85892pt.
+
+<./FlowCharts/PngFlowCharts/TCP3.png, id=2787, 942.52126pt x 693.59125pt>
+File: ./FlowCharts/PngFlowCharts/TCP3.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/TCP3.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/TCP3.png used on input line
+ 88.
+(pdftex.def)             Requested size: 417.47307pt x 307.21309pt.
+ [146 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/TCP1.png> <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Do
+c/Version4/FlowCharts/PngFlowCharts/TCP2.png>]
+<./FlowCharts/PngFlowCharts/TCP11.png, id=2794, 934.49126pt x 693.59125pt>
+File: ./FlowCharts/PngFlowCharts/TCP11.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/TCP11.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/TCP11.png used on input lin
+e 95.
+(pdftex.def)             Requested size: 417.47307pt x 309.85892pt.
+
+<./FlowCharts/PngFlowCharts/TCP4.png, id=2795, 936.49875pt x 693.59125pt>
+File: ./FlowCharts/PngFlowCharts/TCP4.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/TCP4.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/TCP4.png used on input line
+ 103.
+(pdftex.def)             Requested size: 417.47307pt x 309.19217pt.
+ [147 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/TCP3.png> <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Do
+c/Version4/FlowCharts/PngFlowCharts/TCP11.png>]
+<./FlowCharts/PngFlowCharts/TC_PA.png, id=2803, 581.17125pt x 693.59125pt>
+File: ./FlowCharts/PngFlowCharts/TC_PA.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/TC_PA.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/TC_PA.png used on input lin
+e 110.
+(pdftex.def)             Requested size: 417.47307pt x 498.23174pt.
+ [148 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/TCP4.png>]
+<./FlowCharts/PngFlowCharts/TCP6.png, id=2809, 934.49126pt x 693.59125pt>
+File: ./FlowCharts/PngFlowCharts/TCP6.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/TCP6.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/TCP6.png used on input line
+ 118.
+(pdftex.def)             Requested size: 417.47307pt x 309.85892pt.
+ [149 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/TC_PA.png>]
+<./FlowCharts/PngFlowCharts/TCP7.png, id=2815, 934.49126pt x 693.59125pt>
+File: ./FlowCharts/PngFlowCharts/TCP7.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/TCP7.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/TCP7.png used on input line
+ 125.
+(pdftex.def)             Requested size: 417.47307pt x 309.85892pt.
+
+<./FlowCharts/PngFlowCharts/TCP8.png, id=2816, 934.49126pt x 693.59125pt>
+File: ./FlowCharts/PngFlowCharts/TCP8.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/TCP8.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/TCP8.png used on input line
+ 133.
+(pdftex.def)             Requested size: 417.47307pt x 309.85892pt.
+ [150 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/TCP6.png> <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Do
+c/Version4/FlowCharts/PngFlowCharts/TCP7.png>]
+<./FlowCharts/PngFlowCharts/TCP9.png, id=2823, 934.49126pt x 693.59125pt>
+File: ./FlowCharts/PngFlowCharts/TCP9.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/TCP9.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/TCP9.png used on input line
+ 140.
+(pdftex.def)             Requested size: 417.47307pt x 309.85892pt.
+
+<./FlowCharts/PngFlowCharts/EDAU1.png, id=2824, 571.53525pt x 415.5525pt>
+File: ./FlowCharts/PngFlowCharts/EDAU1.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/EDAU1.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/EDAU1.png used on input lin
+e 148.
+(pdftex.def)             Requested size: 417.47307pt x 303.53468pt.
+ [151 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/TCP8.png> <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Do
+c/Version4/FlowCharts/PngFlowCharts/TCP9.png>]
+<./FlowCharts/PngFlowCharts/EDAU2.png, id=2831, 569.7285pt x 415.5525pt>
+File: ./FlowCharts/PngFlowCharts/EDAU2.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/EDAU2.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/EDAU2.png used on input lin
+e 155.
+(pdftex.def)             Requested size: 417.47307pt x 304.49849pt.
+
+<./FlowCharts/PngFlowCharts/EDAU3.png, id=2832, 569.7285pt x 415.5525pt>
+File: ./FlowCharts/PngFlowCharts/EDAU3.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/EDAU3.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/EDAU3.png used on input lin
+e 162.
+(pdftex.def)             Requested size: 417.47307pt x 304.49849pt.
+ [152 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/EDAU1.png> <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design D
+oc/Version4/FlowCharts/PngFlowCharts/EDAU2.png>]
+<./FlowCharts/PngFlowCharts/EDAU5.png, id=2839, 560.0925pt x 415.5525pt>
+File: ./FlowCharts/PngFlowCharts/EDAU5.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/EDAU5.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/EDAU5.png used on input lin
+e 169.
+(pdftex.def)             Requested size: 417.47307pt x 309.74867pt.
+
+<./FlowCharts/PngFlowCharts/EDAU6.png, id=2840, 569.7285pt x 416.15475pt>
+File: ./FlowCharts/PngFlowCharts/EDAU6.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/EDAU6.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/EDAU6.png used on input lin
+e 177.
+(pdftex.def)             Requested size: 417.47307pt x 304.93979pt.
+ [153 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/EDAU3.png> <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design D
+oc/Version4/FlowCharts/PngFlowCharts/EDAU5.png>]
+<./FlowCharts/PngFlowCharts/EDAU7.png, id=2848, 569.7285pt x 416.15475pt>
+File: ./FlowCharts/PngFlowCharts/EDAU7.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/EDAU7.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/EDAU7.png used on input lin
+e 185.
+(pdftex.def)             Requested size: 417.47307pt x 304.93979pt.
+
+<./FlowCharts/PngFlowCharts/EDAU8.png, id=2849, 583.58025pt x 425.1885pt>
+File: ./FlowCharts/PngFlowCharts/EDAU8.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/EDAU8.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/EDAU8.png used on input lin
+e 193.
+(pdftex.def)             Requested size: 417.47307pt x 304.16966pt.
+ [154 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/EDAU6.png> <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design D
+oc/Version4/FlowCharts/PngFlowCharts/EDAU7.png>]
+<./FlowCharts/PngFlowCharts/EDAU9.png, id=2856, 566.71725pt x 416.15475pt>
+File: ./FlowCharts/PngFlowCharts/EDAU9.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/EDAU9.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/EDAU9.png used on input lin
+e 201.
+(pdftex.def)             Requested size: 417.47307pt x 306.57175pt.
+
+<./FlowCharts/PngFlowCharts/TCP10.png, id=2857, 560.0925pt x 415.5525pt>
+File: ./FlowCharts/PngFlowCharts/TCP10.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/TCP10.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/TCP10.png used on input lin
+e 214.
+(pdftex.def)             Requested size: 417.47307pt x 309.74867pt.
+ [155 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/EDAU8.png> <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design D
+oc/Version4/FlowCharts/PngFlowCharts/EDAU9.png>]
+<./FlowCharts/PngFlowCharts/AnalogInput.png, id=2864, 621.32124pt x 528.97626pt
+>
+File: ./FlowCharts/PngFlowCharts/AnalogInput.png Graphic file (type png)
+ <use ./FlowCharts/PngFlowCharts/AnalogInput.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/AnalogInput.png used on inp
+ut line 219.
+(pdftex.def)             Requested size: 417.47307pt x 355.42926pt.
+ [156 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/TCP10.png>]
+<./FlowCharts/PngFlowCharts/SG1_EDAU.png, id=2870, 865.2325pt x 686.565pt>
+File: ./FlowCharts/PngFlowCharts/SG1_EDAU.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/SG1_EDAU.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/SG1_EDAU.png used on input 
+line 225.
+(pdftex.def)             Requested size: 417.47307pt x 331.26553pt.
+ [157 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/AnalogInput.png>]
+<./FlowCharts/PngFlowCharts/SG2_CDT.png, id=2876, 910.40125pt x 709.65125pt>
+File: ./FlowCharts/PngFlowCharts/SG2_CDT.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/SG2_CDT.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/SG2_CDT.png used on input l
+ine 232.
+(pdftex.def)             Requested size: 417.47307pt x 325.42566pt.
+ [158 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/SG1_EDAU.png>]
+<./FlowCharts/PngFlowCharts/SG3_CDM.png, id=2882, 910.40125pt x 709.65125pt>
+File: ./FlowCharts/PngFlowCharts/SG3_CDM.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/SG3_CDM.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/SG3_CDM.png used on input l
+ine 239.
+(pdftex.def)             Requested size: 417.47307pt x 325.42566pt.
+ [159 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/FlowChart
+s/PngFlowCharts/SG2_CDT.png>]
+<./FlowCharts/PngFlowCharts/SG4_DIO.png, id=2889, 618.31pt x 709.65125pt>
+File: ./FlowCharts/PngFlowCharts/SG4_DIO.png Graphic file (type png)
+
+<use ./FlowCharts/PngFlowCharts/SG4_DIO.png>
+Package pdftex.def Info: ./FlowCharts/PngFlowCharts/SG4_DIO.png used on input l
+ine 246.
+(pdftex.def)             Requested size: 417.47307pt x 479.15634pt.
+)
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\Chapters/Chapt
+er12.tex" [160 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/
+FlowCharts/PngFlowCharts/SG3_CDM.png>] [161 <E:/4_Softwares_DPS_PLC/2_2_TC Linu
+x DPS Sw Design Doc/Version4/FlowCharts/PngFlowCharts/SG4_DIO.png>]
+Chapter 9.
+------------------------------------------------------------------------------
+ 9 Features of new Linux based DPS compared to old windows 2K based DPS
+------------------------------------------------------------------------------
+)
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\Chapters/Chapt
+er10.tex" [162
+
+]
+Chapter 10.
+------------------------------------------------------------------------------
+ 10 Display Pages
+------------------------------------------------------------------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+<./Diagrams/MainPage.png, id=2906, 1152.7065pt x 609.477pt>
+File: ./Diagrams/MainPage.png Graphic file (type png)
+
+<use ./Diagrams/MainPage.png>
+Package pdftex.def Info: ./Diagrams/MainPage.png used on input line 10.
+(pdftex.def)             Requested size: 417.47165pt x 500.96477pt.
+ [163
+
+]
+<./Diagrams/SecondaryPage.png, id=2911, 1139.457pt x 551.661pt>
+File: ./Diagrams/SecondaryPage.png Graphic file (type png)
+
+<use ./Diagrams/SecondaryPage.png>
+Package pdftex.def Info: ./Diagrams/SecondaryPage.png used on input line 18.
+(pdftex.def)             Requested size: 417.47185pt x 500.9685pt.
+)
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\Chapters/Chapt
+er11.tex" [164 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design Doc/Version4/
+Diagrams/MainPage.png>] [165 <E:/4_Softwares_DPS_PLC/2_2_TC Linux DPS Sw Design
+ Doc/Version4/Diagrams/SecondaryPage.png>]) [166
+
+]
+------------------------------------------------------------------------------
+ Bibliography
+------------------------------------------------------------------------------
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 673.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 673.
+
+("E:\4_Softwares_DPS_PLC\2_2_TC Linux DPS Sw Design Doc\Version4\TC_DPS_SW_DESI
+GN_DOC_v4.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 673.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 673.
+Package rerunfilecheck Info: File `TC_DPS_SW_DESIGN_DOC_v4.out' has not changed
+.
+(rerunfilecheck)             Checksum: BC6D32E00758AF4ED2626B6F72055609;42582.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 673.
+ ) 
+Here is how much of TeX's memory you used:
+ 16635 strings out of 493921
+ 236496 string characters out of 3144856
+ 349070 words of memory out of 3000000
+ 18324 multiletter control sequences out of 15000+200000
+ 25524 words of font info for 91 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 49i,18n,45p,2716b,568s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx6.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmti7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/symbols/msam10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+public/amsfonts/symbols/msam7.pfb>
+Output written on TC_DPS_SW_DESIGN_DOC_v4.pdf (182 pages, 13566970 bytes).
+PDF statistics:
+ 3253 PDF objects out of 3580 (max. 8388607)
+ 1255 named destinations out of 1440 (max. 500000)
+ 2056 words of extra memory for PDF output out of 10000 (max. 10000000)
+

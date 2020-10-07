@@ -1,0 +1,22 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis.aux
+The style file: unsrtnat.bst
+Database file #1: bibo.bib
+I was expecting a `,' or a `}'---line 3 of file bibo.bib
+ : 
+ : title = "{N}atural {C}onvection in the annulus between concentric horizontal circular and square cylinders",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 13 of file bibo.bib
+ : 
+ : title = "{N}atural {C}onvection from a horizontal cylinder in a rectangular cavity",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty title in first
+Warning--empty journal in first
+Warning--empty year in first
+Warning--empty year in first
+Warning--empty title in second
+Warning--empty journal in second
+Warning--empty year in second
+Warning--empty year in second
+(There were 2 error messages)

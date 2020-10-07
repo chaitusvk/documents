@@ -1,0 +1,229 @@
+\vspace {0em}
+\vspace {0em}
+\contentsline {chapter}{Acknowledgements}{vi}{dummy.4}
+\vspace {1em}
+\contentsline {chapter}{List of Figures}{vii}{dummy.6}
+\contentsline {chapter}{List of Tables}{viii}{dummy.8}
+\contentsline {chapter}{Abbreviations}{ix}{dummy.10}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.13}
+\contentsline {section}{\numberline {1.1}System Purpose}{4}{section.16}
+\contentsline {subsection}{\numberline {1.1.1}Data processing System}{4}{subsection.17}
+\contentsline {subsection}{\numberline {1.1.2}Digital Command Encoder / Remote Command Unit }{4}{subsection.19}
+\contentsline {subsection}{\numberline {1.1.3}Servo System}{5}{subsection.21}
+\contentsline {subsection}{\numberline {1.1.4}Operator Control Console}{6}{subsection.23}
+\contentsline {subsection}{\numberline {1.1.5}Encoder Data Acquisition Unit}{6}{subsection.24}
+\contentsline {subsection}{\numberline {1.1.6}Time Code Reader}{6}{subsection.25}
+\contentsline {subsection}{\numberline {1.1.7}Transmitter/ Solid State Power Amplifier}{8}{subsection.28}
+\contentsline {subsection}{\numberline {1.1.8}Short Back Fire Antenna}{8}{subsection.30}
+\contentsline {subsection}{\numberline {1.1.9}Command Remote Interface}{8}{subsection.31}
+\contentsline {section}{\numberline {1.2}System Scope}{10}{section.33}
+\contentsline {chapter}{\numberline {2}Decomposition description}{11}{chapter.34}
+\contentsline {section}{\numberline {2.1}Module decomposition}{11}{section.35}
+\contentsline {subsection}{\numberline {2.1.1}main}{11}{subsection.36}
+\contentsline {subsection}{\numberline {2.1.2}mainwindow}{11}{subsection.37}
+\contentsline {subsection}{\numberline {2.1.3}progmode}{12}{subsection.38}
+\contentsline {subsection}{\numberline {2.1.4}dio}{12}{subsection.39}
+\contentsline {subsection}{\numberline {2.1.5}tcprocess}{12}{subsection.40}
+\contentsline {subsection}{\numberline {2.1.6}analogao}{12}{subsection.41}
+\contentsline {subsection}{\numberline {2.1.7}analogai}{12}{subsection.42}
+\contentsline {subsection}{\numberline {2.1.8}logclass}{13}{subsection.43}
+\contentsline {subsection}{\numberline {2.1.9}plotting}{13}{subsection.44}
+\contentsline {subsection}{\numberline {2.1.10}qcustomplot}{13}{subsection.45}
+\contentsline {section}{\numberline {2.2}Concurrent process decomposition}{13}{section.46}
+\contentsline {subsection}{\numberline {2.2.1}networkrxThread}{13}{subsection.47}
+\contentsline {subsection}{\numberline {2.2.2}networktxn}{14}{subsection.48}
+\contentsline {subsection}{\numberline {2.2.3}Siothread}{14}{subsection.49}
+\contentsline {subsection}{\numberline {2.2.4}AiThread}{14}{subsection.50}
+\contentsline {subsection}{\numberline {2.2.5}AOThread}{14}{subsection.51}
+\contentsline {subsection}{\numberline {2.2.6}LogThread}{15}{subsection.52}
+\contentsline {section}{\numberline {2.3}Data decomposition}{15}{section.53}
+\contentsline {subsection}{\numberline {2.3.1}Input data files}{15}{subsection.54}
+\contentsline {subsection}{\numberline {2.3.2}Output data files}{15}{subsection.55}
+\contentsline {chapter}{\numberline {3}Dependency description}{17}{chapter.56}
+\contentsline {section}{\numberline {3.1}Intermodule dependency}{17}{section.57}
+\contentsline {section}{\numberline {3.2}Interprocess dependencies}{18}{section.59}
+\contentsline {section}{\numberline {3.3}Data dependencies}{18}{section.60}
+\contentsline {subsection}{\numberline {3.3.1}Input data files}{18}{subsection.61}
+\contentsline {subsection}{\numberline {3.3.2}QT Resources}{19}{subsection.62}
+\contentsline {subsection}{\numberline {3.3.3}System Resources}{19}{subsection.63}
+\contentsline {subsection}{\numberline {3.3.4}Drivers}{19}{subsection.64}
+\contentsline {chapter}{\numberline {4}Interface description}{20}{chapter.65}
+\contentsline {section}{\numberline {4.1}Module Interface}{20}{section.66}
+\contentsline {subsection}{\numberline {4.1.1}main}{20}{subsection.67}
+\contentsline {subsection}{\numberline {4.1.2}MainWindow}{20}{subsection.68}
+\contentsline {subsection}{\numberline {4.1.3}dio}{21}{subsection.69}
+\contentsline {subsection}{\numberline {4.1.4}analogai}{21}{subsection.70}
+\contentsline {subsection}{\numberline {4.1.5}analogao}{21}{subsection.71}
+\contentsline {subsection}{\numberline {4.1.6}logclass}{21}{subsection.72}
+\contentsline {subsection}{\numberline {4.1.7}NetworkRxThread}{21}{subsection.73}
+\contentsline {subsection}{\numberline {4.1.8}networkTxn}{21}{subsection.74}
+\contentsline {subsection}{\numberline {4.1.9}plotting}{21}{subsection.75}
+\contentsline {subsection}{\numberline {4.1.10}progMode}{22}{subsection.76}
+\contentsline {subsection}{\numberline {4.1.11}qcustomplot}{22}{subsection.77}
+\contentsline {subsection}{\numberline {4.1.12}siothread}{22}{subsection.78}
+\contentsline {section}{\numberline {4.2}Process Interface : tcprocess}{22}{section.79}
+\contentsline {chapter}{\numberline {5}Detailed design}{23}{chapter.80}
+\contentsline {section}{\numberline {5.1}Module Detailed design}{23}{section.81}
+\contentsline {subsection}{\numberline {5.1.1}Main }{23}{subsection.82}
+\contentsline {subsubsection}{\numberline {5.1.1.1}Attributes}{23}{subsubsection.83}
+\contentsline {subsubsection}{\numberline {5.1.1.2}Member Functions }{23}{subsubsection.84}
+\contentsline {subsubsection}{\numberline {5.1.1.3}Slots}{23}{subsubsection.85}
+\contentsline {subsubsection}{\numberline {5.1.1.4}Signals}{23}{subsubsection.86}
+\contentsline {subsubsection}{\numberline {5.1.1.5}Internal design details }{23}{subsubsection.87}
+\contentsline {subsection}{\numberline {5.1.2}Main Window}{24}{subsection.88}
+\contentsline {subsubsection}{\numberline {5.1.2.1}Attributes}{24}{subsubsection.89}
+\contentsline {subsubsection}{\numberline {5.1.2.2}Member Functions }{30}{subsubsection.90}
+\contentsline {subsubsection}{\numberline {5.1.2.3}Slots}{31}{subsubsection.91}
+\contentsline {subsubsection}{\numberline {5.1.2.4}Signals}{31}{subsubsection.92}
+\contentsline {subsubsection}{\numberline {5.1.2.5}Internal design details of member functions }{31}{subsubsection.93}
+\contentsline {subsubsection}{\numberline {5.1.2.6}Internal design details of SLOTS}{38}{subsubsection.111}
+\contentsline {subsection}{\numberline {5.1.3}dio}{44}{subsection.127}
+\contentsline {subsubsection}{\numberline {5.1.3.1}Attributes}{44}{subsubsection.128}
+\contentsline {subsubsection}{\numberline {5.1.3.2}Member Functions }{44}{subsubsection.129}
+\contentsline {subsubsection}{\numberline {5.1.3.3}Slots}{44}{subsubsection.130}
+\contentsline {subsubsection}{\numberline {5.1.3.4}Signals}{45}{subsubsection.131}
+\contentsline {subsubsection}{\numberline {5.1.3.5}Internal design details }{45}{subsubsection.132}
+\contentsline {subsection}{\numberline {5.1.4}analogai}{46}{subsection.163}
+\contentsline {subsubsection}{\numberline {5.1.4.1}Attributes}{46}{subsubsection.164}
+\contentsline {subsubsection}{\numberline {5.1.4.2}Member Functions }{47}{subsubsection.165}
+\contentsline {subsubsection}{\numberline {5.1.4.3}Slots}{47}{subsubsection.166}
+\contentsline {subsubsection}{\numberline {5.1.4.4}Signals}{47}{subsubsection.167}
+\contentsline {subsubsection}{\numberline {5.1.4.5}Internal design details }{47}{subsubsection.168}
+\contentsline {subsection}{\numberline {5.1.5}analogao}{49}{subsection.193}
+\contentsline {subsubsection}{\numberline {5.1.5.1}Attributes}{49}{subsubsection.194}
+\contentsline {subsubsection}{\numberline {5.1.5.2}Member Functions }{49}{subsubsection.195}
+\contentsline {subsubsection}{\numberline {5.1.5.3}Slots}{49}{subsubsection.196}
+\contentsline {subsubsection}{\numberline {5.1.5.4}Signals}{49}{subsubsection.197}
+\contentsline {subsubsection}{\numberline {5.1.5.5}Internal design details }{49}{subsubsection.198}
+\contentsline {subsection}{\numberline {5.1.6}logclass}{50}{subsection.217}
+\contentsline {subsubsection}{\numberline {5.1.6.1}Attributes}{50}{subsubsection.218}
+\contentsline {subsubsection}{\numberline {5.1.6.2}Member Functions }{52}{subsubsection.219}
+\contentsline {subsubsection}{\numberline {5.1.6.3}Slots}{52}{subsubsection.220}
+\contentsline {subsubsection}{\numberline {5.1.6.4}Signals}{53}{subsubsection.221}
+\contentsline {subsubsection}{\numberline {5.1.6.5}Internal design details }{54}{subsubsection.222}
+\contentsline {subsection}{\numberline {5.1.7}plotting}{66}{subsection.408}
+\contentsline {subsubsection}{\numberline {5.1.7.1}Attributes}{66}{subsubsection.409}
+\contentsline {subsubsection}{\numberline {5.1.7.2}Member Functions }{66}{subsubsection.410}
+\contentsline {subsubsection}{\numberline {5.1.7.3}Slots}{67}{subsubsection.411}
+\contentsline {subsubsection}{\numberline {5.1.7.4}Signals}{67}{subsubsection.412}
+\contentsline {subsubsection}{\numberline {5.1.7.5}Internal design details }{67}{subsubsection.413}
+\contentsline {subsection}{\numberline {5.1.8}progMode}{69}{subsection.456}
+\contentsline {subsubsection}{\numberline {5.1.8.1}Attributes}{69}{subsubsection.457}
+\contentsline {subsubsection}{\numberline {5.1.8.2}Member Functions }{70}{subsubsection.458}
+\contentsline {subsubsection}{\numberline {5.1.8.3}Slots}{70}{subsubsection.459}
+\contentsline {subsubsection}{\numberline {5.1.8.4}Signals}{70}{subsubsection.460}
+\contentsline {subsubsection}{\numberline {5.1.8.5}Internal design details }{70}{subsubsection.461}
+\contentsline {subsection}{\numberline {5.1.9}qcustomplot}{71}{subsection.474}
+\contentsline {subsubsection}{\numberline {5.1.9.1}Attributes}{71}{subsubsection.475}
+\contentsline {subsubsection}{\numberline {5.1.9.2}Member Functions }{71}{subsubsection.476}
+\contentsline {subsubsection}{\numberline {5.1.9.3}Slots}{71}{subsubsection.477}
+\contentsline {subsubsection}{\numberline {5.1.9.4}Signals}{71}{subsubsection.478}
+\contentsline {subsubsection}{\numberline {5.1.9.5}Internal design details }{71}{subsubsection.479}
+\contentsline {subsection}{\numberline {5.1.10}tcprocess}{71}{subsection.480}
+\contentsline {subsubsection}{\numberline {5.1.10.1}Attributes}{71}{subsubsection.481}
+\contentsline {subsubsection}{\numberline {5.1.10.2}Member Functions }{75}{subsubsection.482}
+\contentsline {subsubsection}{\numberline {5.1.10.3}Slots}{76}{subsubsection.483}
+\contentsline {subsubsection}{\numberline {5.1.10.4}Signals}{76}{subsubsection.484}
+\contentsline {subsubsection}{\numberline {5.1.10.5}Internal design details }{76}{subsubsection.485}
+\contentsline {subsection}{\numberline {5.1.11}Network Reception: NetworkRx}{78}{subsection.528}
+\contentsline {subsubsection}{\numberline {5.1.11.1}Attributes}{78}{subsubsection.529}
+\contentsline {subsubsection}{\numberline {5.1.11.2}Member Functions }{78}{subsubsection.530}
+\contentsline {subsubsection}{\numberline {5.1.11.3}Slots}{78}{subsubsection.531}
+\contentsline {subsubsection}{\numberline {5.1.11.4}Signals}{78}{subsubsection.532}
+\contentsline {subsubsection}{\numberline {5.1.11.5}Internal design details }{78}{subsubsection.533}
+\contentsline {subsection}{\numberline {5.1.12}Network Transmission: NetworkTx}{79}{subsection.546}
+\contentsline {subsubsection}{\numberline {5.1.12.1}Attributes}{79}{subsubsection.547}
+\contentsline {subsubsection}{\numberline {5.1.12.2}Member Functions }{79}{subsubsection.548}
+\contentsline {subsubsection}{\numberline {5.1.12.3}Slots}{79}{subsubsection.549}
+\contentsline {subsubsection}{\numberline {5.1.12.4}Signals}{79}{subsubsection.550}
+\contentsline {subsubsection}{\numberline {5.1.12.5}Internal design details }{79}{subsubsection.551}
+\contentsline {section}{\numberline {5.2}Threads detailed design}{80}{section.558}
+\contentsline {subsection}{\numberline {5.2.1}Network Reception Thread: NetworkRxThread}{80}{subsection.559}
+\contentsline {subsubsection}{\numberline {5.2.1.1}Attributes}{80}{subsubsection.560}
+\contentsline {subsubsection}{\numberline {5.2.1.2}Member Functions }{81}{subsubsection.561}
+\contentsline {subsubsection}{\numberline {5.2.1.3}Slots}{81}{subsubsection.562}
+\contentsline {subsubsection}{\numberline {5.2.1.4}Signals}{81}{subsubsection.563}
+\contentsline {subsubsection}{\numberline {5.2.1.5}Internal design details }{81}{subsubsection.564}
+\contentsline {subsection}{\numberline {5.2.2}Network Transmission Threads: NetworkTx }{82}{subsection.583}
+\contentsline {subsubsection}{\numberline {5.2.2.1}Attributes}{82}{subsubsection.584}
+\contentsline {subsubsection}{\numberline {5.2.2.2}Member Functions }{83}{subsubsection.585}
+\contentsline {subsubsection}{\numberline {5.2.2.3}Slots}{83}{subsubsection.586}
+\contentsline {subsubsection}{\numberline {5.2.2.4}Signals}{83}{subsubsection.587}
+\contentsline {subsubsection}{\numberline {5.2.2.5}Internal design details }{83}{subsubsection.588}
+\contentsline {subsection}{\numberline {5.2.3}siothreads: SioThread, SioThreadE}{84}{subsection.607}
+\contentsline {subsubsection}{\numberline {5.2.3.1}Attributes}{84}{subsubsection.608}
+\contentsline {subsubsection}{\numberline {5.2.3.2}Member Functions }{85}{subsubsection.609}
+\contentsline {subsubsection}{\numberline {5.2.3.3}Slots}{85}{subsubsection.610}
+\contentsline {subsubsection}{\numberline {5.2.3.4}Signals}{85}{subsubsection.611}
+\contentsline {subsubsection}{\numberline {5.2.3.5}Internal design details }{85}{subsubsection.612}
+\contentsline {section}{\numberline {5.3}Data detailed design}{86}{section.631}
+\contentsline {subsection}{\numberline {5.3.1}Data structures}{86}{subsection.632}
+\contentsline {subsubsection}{\numberline {5.3.1.1}CDT}{86}{subsubsection.633}
+\contentsline {subsubsection}{\numberline {5.3.1.2}Constants}{87}{subsubsection.642}
+\contentsline {subsubsection}{\numberline {5.3.1.3}AntLog}{88}{subsubsection.675}
+\contentsline {subsubsection}{\numberline {5.3.1.4}Acquired$\_$encoder$\_$Data}{90}{subsubsection.725}
+\contentsline {subsubsection}{\numberline {5.3.1.5}NetRxMc}{92}{subsubsection.778}
+\contentsline {subsubsection}{\numberline {5.3.1.6}Stnlog}{93}{subsubsection.791}
+\contentsline {subsubsection}{\numberline {5.3.1.7}DCE$\_$RCUlog}{95}{subsubsection.842}
+\contentsline {subsubsection}{\numberline {5.3.1.8}NetTxMCC}{96}{subsubsection.857}
+\contentsline {subsubsection}{\numberline {5.3.1.9}cdm1$\_$buffer}{97}{subsubsection.887}
+\contentsline {subsubsection}{\numberline {5.3.1.10}cdm2$\_$buffer}{98}{subsubsection.910}
+\contentsline {subsection}{\numberline {5.3.2}Input data files}{99}{subsection.933}
+\contentsline {subsection}{\numberline {5.3.3}Configuration files}{99}{subsection.934}
+\contentsline {chapter}{\numberline {6}Procedure for loading Linux Operating System and other drivers along with add on cards}{100}{chapter.935}
+\contentsline {section}{\numberline {6.1}Loading of Redhat Linux Operating System}{100}{section.936}
+\contentsline {section}{\numberline {6.2}Copying packages and repository creation}{101}{section.937}
+\contentsline {subsection}{\numberline {6.2.1}Copying of packages}{101}{subsection.938}
+\contentsline {subsection}{\numberline {6.2.2}Repository creation}{102}{subsection.939}
+\contentsline {section}{\numberline {6.3}Installation of libraries}{102}{section.940}
+\contentsline {section}{\numberline {6.4}Installation of Qt}{103}{section.941}
+\contentsline {section}{\numberline {6.5}Installation of drivers for add-on cards}{104}{section.945}
+\contentsline {subsection}{\numberline {6.5.1}blacklisting}{104}{subsection.946}
+\contentsline {subsection}{\numberline {6.5.2}Adding several ports to system}{105}{subsection.950}
+\contentsline {subsection}{\numberline {6.5.3}Serial Card installation : PCI1620B}{105}{subsection.951}
+\contentsline {subsection}{\numberline {6.5.4}DIO Parallel Card installation : PCI1753}{106}{subsection.954}
+\contentsline {subsection}{\numberline {6.5.5}Multifunction Card installation : PCI1716}{108}{subsection.968}
+\contentsline {section}{\numberline {6.6}Other useful Commands}{108}{section.976}
+\contentsline {chapter}{\numberline {7}Data Formats}{110}{chapter.977}
+\contentsline {section}{\numberline {7.1}RS-232 Pin assignment details}{110}{section.978}
+\contentsline {section}{\numberline {7.2}Input File formats}{111}{section.979}
+\contentsline {subsection}{\numberline {7.2.1}Input file: ``tcconstants.inp" format}{111}{subsection.980}
+\contentsline {subsection}{\numberline {7.2.2}Input file: ``pio.txt" format}{113}{subsection.983}
+\contentsline {subsection}{\numberline {7.2.3}Input file: ``sio.txt" format}{113}{subsection.984}
+\contentsline {subsection}{\numberline {7.2.4}Input file: ``xxxx.trj/pgm/txt" format}{114}{subsection.985}
+\contentsline {subsection}{\numberline {7.2.5}Input file: ``UdpRxSocket.inp" format}{114}{subsection.986}
+\contentsline {subsection}{\numberline {7.2.6}Input file: ``UDpTxSocket.inp" format}{114}{subsection.987}
+\contentsline {section}{\numberline {7.3}Connectivity data port formats}{115}{section.990}
+\contentsline {subsection}{\numberline {7.3.1}DIO Ports}{115}{subsection.991}
+\contentsline {subsection}{\numberline {7.3.2}Analog Input Channel}{117}{subsection.992}
+\contentsline {subsection}{\numberline {7.3.3}Analog Output Channels}{118}{subsection.993}
+\contentsline {subsection}{\numberline {7.3.4}Serial Input Ports}{118}{subsection.994}
+\contentsline {subsection}{\numberline {7.3.5}Network Ports}{120}{subsection.995}
+\contentsline {section}{\numberline {7.4}Various logging formats}{120}{section.996}
+\contentsline {subsection}{\numberline {7.4.1}CDM reception format}{136}{subsection.1004}
+\contentsline {chapter}{\numberline {8}Flow Charts}{138}{chapter.1006}
+\contentsline {section}{\numberline {8.1}Initial/MainWindow Flow Charts}{138}{section.1007}
+\contentsline {section}{\numberline {8.2}Flow charts of slots in mainWindow}{140}{section.1010}
+\contentsline {subsection}{\numberline {8.2.1}CDT Slot Flow Charts in mainWindow}{140}{subsection.1011}
+\contentsline {subsection}{\numberline {8.2.2}EDAU Slot Flow Charts in mainWindow}{141}{subsection.1013}
+\contentsline {subsection}{\numberline {8.2.3}CDM Slot Charts in mainWindow}{143}{subsection.1016}
+\contentsline {subsection}{\numberline {8.2.4}100Hz Interrupt received slot in mainWindow}{144}{subsection.1018}
+\contentsline {subsection}{\numberline {8.2.5}TcProcess Flow charts: in mainWindow}{146}{subsection.1022}
+\contentsline {subsection}{\numberline {8.2.6}Data assignment for logging: in mainWindow}{147}{subsection.1026}
+\contentsline {section}{\numberline {8.3}TC process flow charts : tcprocess class}{148}{section.1028}
+\contentsline {subsection}{\numberline {8.3.1}CDT Processing}{148}{subsection.1029}
+\contentsline {subsection}{\numberline {8.3.2}RF power level processing}{149}{subsection.1031}
+\contentsline {subsection}{\numberline {8.3.3}DIO parallel data processing}{150}{subsection.1033}
+\contentsline {subsection}{\numberline {8.3.4}CDM data processing}{151}{subsection.1036}
+\contentsline {subsection}{\numberline {8.3.5}EDAU flow charts}{152}{subsection.1039}
+\contentsline {section}{\numberline {8.4}Analog data input and output}{156}{section.1048}
+\contentsline {subsection}{\numberline {8.4.1}Analog output}{156}{subsection.1049}
+\contentsline {subsection}{\numberline {8.4.2}Analog input}{157}{subsection.1051}
+\contentsline {section}{\numberline {8.5}Flow charts for concurrent data flow}{158}{section.1053}
+\contentsline {subsection}{\numberline {8.5.1}EDAU serial data reception}{158}{subsection.1054}
+\contentsline {subsection}{\numberline {8.5.2}CDT serial data reception}{159}{subsection.1056}
+\contentsline {subsection}{\numberline {8.5.3}CDM network reception}{160}{subsection.1058}
+\contentsline {subsection}{\numberline {8.5.4}DI parallel interrupt}{161}{subsection.1060}
+\contentsline {chapter}{\numberline {9}Features of new Linux based DPS compared to old windows 2K based DPS}{162}{chapter.1062}
+\contentsline {chapter}{\numberline {10}Display Pages}{163}{chapter.1063}
+\vspace {0em}
